@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ZBusinessObjectHeaderAlt",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "typeCategory": "businessObject",
+  "name": "ZBusinessObjectHeaderAlt",
+  "objectTypeCode": "90002"
+}

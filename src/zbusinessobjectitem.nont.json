@@ -1,0 +1,10 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "ZBusinessObjectItem",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZBusinessObjectItem",
+  "sapObjectType": "ZBusinessObjectHeader"
+}
